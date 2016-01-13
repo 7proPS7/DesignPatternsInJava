@@ -1,4 +1,2 @@
-# DesignPatternsInJava
-Java Design Pattern
-Other design pattern in branches :)
+# Other design pattern in branches :)
 
